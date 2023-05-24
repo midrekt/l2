@@ -36,6 +36,7 @@ namespace Program
                 default:
                     Console.WriteLine("Неизвестный оператор");
                     break;
+
             }
         }
     }
