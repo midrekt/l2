@@ -22,13 +22,13 @@ namespace Program
             switch (vib)
             {
                 case '+':
-
+                    Console.WriteLine(a + b);
                     break;
                 case '-':
-
+                    Console.WriteLine(a - b);
                     break;
                 case '*':
-
+                    Console.WriteLine(a * b);
                     break;
                 case '/':
                     if (b==0)
